@@ -10,3 +10,4 @@ Uppgiften består av att:
 
 _Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?_
 
+Svar: git clone https://github.com/mawi2211/mawi2211.github.io.git
